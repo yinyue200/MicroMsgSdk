@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MicroMsgSdk")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MicroMsgSDK")]
+[assembly: AssemblyDescription("MicroMsgSDK Powered by 微信开放平台")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MicroMsgSdk")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("yinyue200.com")]
+[assembly: AssemblyProduct("MicroMsgSDK")]
+[assembly: AssemblyCopyright("© 2016 yinyue200.com")]
+[assembly: AssemblyTrademark("yinyue200.com")]
 [assembly: AssemblyCulture("")]
 
 // Version information for an assembly consists of the following four values:
